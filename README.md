@@ -1,14 +1,3 @@
-# TEAM 16: FINAL PROJECT
-
-### Group Members
-Arpita Desai - 002774778​
-Chinmay Dharwad - 002771031​
-Karthik Malasani - 002762606​
-Kishor Channal - 002737089​
-Sandhya BS - 002737395
-
-
-
 ## Fantastic Fitness - A Fitness Web Application
 
 A Fitness Web Application provides you with the ultimate flexibility to exercise whenever and wherever you want, without being tied to a physical gym or workout class.​  
